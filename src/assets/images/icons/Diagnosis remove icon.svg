@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="Diagnosis_remove_icon" data-name="Diagnosis remove icon" transform="translate(9545 3589)">
+    <path id="Path_1619" data-name="Path 1619" d="M15,0A15,15,0,1,1,0,15,15,15,0,0,1,15,0Z" transform="translate(-9545 -3589)" fill="#f6f6f6"/>
+    <g id="Group_423" data-name="Group 423" transform="translate(-9538.058 -3582.084)">
+      <path id="Path_1526" data-name="Path 1526" d="M8.068,0a8.068,8.068,0,1,0,8.068,8.068A8.064,8.064,0,0,0,8.068,0Zm0,14.876a6.808,6.808,0,1,1,6.808-6.808A6.8,6.8,0,0,1,8.068,14.876Z" fill="#2659B6"/>
+    </g>
+    <g id="Group_425" data-name="Group 425" transform="translate(-9532.934 -3576.96)">
+      <path id="Path_1527" data-name="Path 1527" d="M168.261,167.37l-1.869-1.869,1.869-1.869a.63.63,0,1,0-.891-.891l-1.869,1.869-1.869-1.869a.63.63,0,0,0-.891.891l1.869,1.869-1.869,1.869a.63.63,0,0,0,.891.891l1.869-1.869,1.869,1.869a.63.63,0,1,0,.891-.891Z" transform="translate(-162.555 -162.556)" fill="#2659B6"/>
+    </g>
+  </g>
+</svg>

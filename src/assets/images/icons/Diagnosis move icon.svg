@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="Diagnosis_move_icon" data-name="Diagnosis move icon" transform="translate(9585 3589)">
+    <path id="Path_1618" data-name="Path 1618" d="M15,0A15,15,0,1,1,0,15,15,15,0,0,1,15,0Z" transform="translate(-9585 -3589)" fill="#f6f6f6"/>
+    <path id="Path_1609" data-name="Path 1609" d="M0,0H17.838V17.838H0Z" transform="translate(-9578.88 -3582.808)" fill="none"/>
+    <path id="Path_1610" data-name="Path 1610" d="M8.27,12.357l1.048,1.048,3.716-3.716L9.318,5.973,8.27,7.021l1.918,1.925H3v1.486h7.187ZM14.892,3H4.486A1.486,1.486,0,0,0,3,4.486V7.459H4.486V4.486H14.892V14.892H4.486V11.919H3v2.973a1.486,1.486,0,0,0,1.486,1.486H14.892a1.491,1.491,0,0,0,1.486-1.486V4.486A1.491,1.491,0,0,0,14.892,3Z" transform="translate(-9579.65 -3583.578)" fill="#2659B6"/>
+  </g>
+</svg>
